@@ -30,7 +30,7 @@
   },
   "devDependencies": {
     "@playcanvas/eslint-config": "^1.0.8",
-    "eslint": "^7.23.0",
+    "eslint": "^9.39.1",
     "sass": "^1.32.8",
     "taffydb": "^2.7.3"
   },
